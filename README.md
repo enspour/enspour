@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a junior developer interested in front-end and back-end development.
+I am a developer interested in front-end and back-end development.
 
 -   Focused on technologies like JS/TS, Node.js (Express, NestJS), React (Next.js), Angular
 -   Graduated from university with a degree in software development technology
